@@ -1,2 +1,3 @@
 # Memory-Card-Game
-Made to improve JavaScript concepts.
+A small memory card game created using javascript concepts.
+
